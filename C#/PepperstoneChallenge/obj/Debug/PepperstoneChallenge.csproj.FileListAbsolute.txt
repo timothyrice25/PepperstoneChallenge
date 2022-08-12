@@ -1,0 +1,20 @@
+C:\Users\TJ\source\repos\PepperstoneChallenge\PepperstoneChallenge\bin\Debug\PepperstoneChallenge.exe.config
+C:\Users\TJ\source\repos\PepperstoneChallenge\PepperstoneChallenge\bin\Debug\PepperstoneChallenge.exe
+C:\Users\TJ\source\repos\PepperstoneChallenge\PepperstoneChallenge\bin\Debug\PepperstoneChallenge.pdb
+C:\Users\TJ\source\repos\PepperstoneChallenge\PepperstoneChallenge\obj\Debug\PepperstoneChallenge.csprojAssemblyReference.cache
+C:\Users\TJ\source\repos\PepperstoneChallenge\PepperstoneChallenge\obj\Debug\PepperstoneChallenge.frmMain.resources
+C:\Users\TJ\source\repos\PepperstoneChallenge\PepperstoneChallenge\obj\Debug\PepperstoneChallenge.Properties.Resources.resources
+C:\Users\TJ\source\repos\PepperstoneChallenge\PepperstoneChallenge\obj\Debug\PepperstoneChallenge.csproj.GenerateResource.cache
+C:\Users\TJ\source\repos\PepperstoneChallenge\PepperstoneChallenge\obj\Debug\PepperstoneChallenge.csproj.CoreCompileInputs.cache
+C:\Users\TJ\source\repos\PepperstoneChallenge\PepperstoneChallenge\obj\Debug\PepperstoneChallenge.exe
+C:\Users\TJ\source\repos\PepperstoneChallenge\PepperstoneChallenge\obj\Debug\PepperstoneChallenge.pdb
+D:\30 PROGRAMS\PepperstoneChallenge\C#\PepperstoneChallenge\PepperstoneChallenge\bin\Debug\PepperstoneChallenge.exe.config
+D:\30 PROGRAMS\PepperstoneChallenge\C#\PepperstoneChallenge\PepperstoneChallenge\bin\Debug\PepperstoneChallenge.exe
+D:\30 PROGRAMS\PepperstoneChallenge\C#\PepperstoneChallenge\PepperstoneChallenge\bin\Debug\PepperstoneChallenge.pdb
+D:\30 PROGRAMS\PepperstoneChallenge\C#\PepperstoneChallenge\PepperstoneChallenge\obj\Debug\PepperstoneChallenge.csprojAssemblyReference.cache
+D:\30 PROGRAMS\PepperstoneChallenge\C#\PepperstoneChallenge\PepperstoneChallenge\obj\Debug\PepperstoneChallenge.frmMain.resources
+D:\30 PROGRAMS\PepperstoneChallenge\C#\PepperstoneChallenge\PepperstoneChallenge\obj\Debug\PepperstoneChallenge.Properties.Resources.resources
+D:\30 PROGRAMS\PepperstoneChallenge\C#\PepperstoneChallenge\PepperstoneChallenge\obj\Debug\PepperstoneChallenge.csproj.GenerateResource.cache
+D:\30 PROGRAMS\PepperstoneChallenge\C#\PepperstoneChallenge\PepperstoneChallenge\obj\Debug\PepperstoneChallenge.csproj.CoreCompileInputs.cache
+D:\30 PROGRAMS\PepperstoneChallenge\C#\PepperstoneChallenge\PepperstoneChallenge\obj\Debug\PepperstoneChallenge.exe
+D:\30 PROGRAMS\PepperstoneChallenge\C#\PepperstoneChallenge\PepperstoneChallenge\obj\Debug\PepperstoneChallenge.pdb
